@@ -1,0 +1,12 @@
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\bin\OrderFoodAddUser.dll.config
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\bin\OrderFoodAddUser.dll
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\bin\OrderFoodAddUser.pdb
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\bin\MySql.Data.dll
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\bin\Google.Protobuf.dll
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\bin\BouncyCastle.Crypto.dll
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\bin\MySql.Data.xml
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\obj\Debug\OrderFoodAddUser.csprojAssemblyReference.cache
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\obj\Debug\OrderFoodAddUser.csproj.CoreCompileInputs.cache
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\obj\Debug\OrderFoodAddUser.csproj.CopyComplete
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\obj\Debug\OrderFoodAddUser.dll
+C:\Users\sherw\source\repos\OrderFoodAddUser\OrderFoodAddUser\obj\Debug\OrderFoodAddUser.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ac941d75-1fc0-43d3-a1da-777074a7ea62" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:64123/addMe.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="addMe.xsd" MetadataType="Schema" ID="73731b8a-23b4-4776-bd2f-eacb8961a7e0" SourceId="1" SourceUrl="http://localhost:64123/addMe.svc?xsd=xsd2" />
+    <MetadataFile FileName="addMe1.xsd" MetadataType="Schema" ID="49c463bd-1aa6-4aa3-a1d7-69c698969b2c" SourceId="1" SourceUrl="http://localhost:64123/addMe.svc?xsd=xsd1" />
+    <MetadataFile FileName="addMe2.xsd" MetadataType="Schema" ID="d2fe208c-a034-4f85-b1b1-9087cb40f1ac" SourceId="1" SourceUrl="http://localhost:64123/addMe.svc?xsd=xsd0" />
+    <MetadataFile FileName="addMe.wsdl" MetadataType="Wsdl" ID="410c4326-7126-48e5-86f4-cdf95deb8d5f" SourceId="1" SourceUrl="http://localhost:64123/addMe.svc?wsdl" />
+    <MetadataFile FileName="addMe.disco" MetadataType="Disco" ID="0978e451-a981-4cd3-82c2-1839aca14d21" SourceId="1" SourceUrl="http://localhost:64123/addMe.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
